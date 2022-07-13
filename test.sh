@@ -1,5 +1,5 @@
 set -e
-docker pull ubuntu
-docker build -t local-dcycle-gh-cli-image .
+docker pull alpine
+docker build --progress=plain -t local-dcycle-gh-cli-image .
 
-docker run --rm dcycle/gh-cli:1
+docker run --rm local-dcycle-gh-cli-image
