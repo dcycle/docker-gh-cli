@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-gh-cli/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-gh-cli/tree/master)
+[![GitHub Actions](https://github.com/dcycle/docker-gh-cli/actions/workflows/config.yml/badge.svg)](https://github.com/dcycle/docker-gh-cli/actions/workflows/config.yml)
 
 Interact with GitHub using [gh-cli](https://github.com/cli/cli).
 
