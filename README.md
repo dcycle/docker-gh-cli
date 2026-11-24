@@ -1,4 +1,4 @@
-[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-gh-cli/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Interact with GitHub using [gh-cli](https://github.com/cli/cli).
 
